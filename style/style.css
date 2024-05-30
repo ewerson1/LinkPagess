@@ -58,8 +58,6 @@ body{
     padding: 16px 140px;
     border-radius: 8px;
     border: 1px solid #696969 ;
-    list-style-type: none;
-    margin: 10px 0;
     cursor: pointer;
     text-align: center;
     list-style: none;
@@ -106,5 +104,4 @@ body{
 footer{
     font-size: 14px;
 }
-
 
